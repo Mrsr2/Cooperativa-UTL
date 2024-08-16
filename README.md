@@ -1,4 +1,6 @@
- Introducción  
+
+# Introducción  
+
 Este proyecto consiste en el desarrollo de una aplicación web destinada a la sociedad cooperativa “Cooperativa UTL” La aplicación consta de varias interfaces principales, cuyo aspecto y funcionalidad dependerán del rol del usuario registrado. 
 
 La aplicación se desarrolla en web, de forma que los usuarios podrán acceder a ella sin necesidad de instalar software en su equipo y con el único requisito de tener un navegador web y una conexión a internet.Algo cada vez mas comun hoy en dia
